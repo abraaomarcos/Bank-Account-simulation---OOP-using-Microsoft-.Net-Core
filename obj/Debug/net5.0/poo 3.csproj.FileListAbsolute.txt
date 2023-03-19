@@ -1,0 +1,16 @@
+C:\WS-VS2022\foi finalmente UDEMY\poo 3\poo 3\bin\Debug\net5.0\poo 3.exe
+C:\WS-VS2022\foi finalmente UDEMY\poo 3\poo 3\bin\Debug\net5.0\poo 3.deps.json
+C:\WS-VS2022\foi finalmente UDEMY\poo 3\poo 3\bin\Debug\net5.0\poo 3.runtimeconfig.json
+C:\WS-VS2022\foi finalmente UDEMY\poo 3\poo 3\bin\Debug\net5.0\poo 3.runtimeconfig.dev.json
+C:\WS-VS2022\foi finalmente UDEMY\poo 3\poo 3\bin\Debug\net5.0\poo 3.dll
+C:\WS-VS2022\foi finalmente UDEMY\poo 3\poo 3\bin\Debug\net5.0\poo 3.pdb
+C:\WS-VS2022\foi finalmente UDEMY\poo 3\poo 3\obj\Debug\net5.0\poo 3.csproj.AssemblyReference.cache
+C:\WS-VS2022\foi finalmente UDEMY\poo 3\poo 3\obj\Debug\net5.0\poo 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\WS-VS2022\foi finalmente UDEMY\poo 3\poo 3\obj\Debug\net5.0\poo 3.AssemblyInfoInputs.cache
+C:\WS-VS2022\foi finalmente UDEMY\poo 3\poo 3\obj\Debug\net5.0\poo 3.AssemblyInfo.cs
+C:\WS-VS2022\foi finalmente UDEMY\poo 3\poo 3\obj\Debug\net5.0\poo 3.csproj.CoreCompileInputs.cache
+C:\WS-VS2022\foi finalmente UDEMY\poo 3\poo 3\obj\Debug\net5.0\poo 3.dll
+C:\WS-VS2022\foi finalmente UDEMY\poo 3\poo 3\obj\Debug\net5.0\refint\poo 3.dll
+C:\WS-VS2022\foi finalmente UDEMY\poo 3\poo 3\obj\Debug\net5.0\poo 3.pdb
+C:\WS-VS2022\foi finalmente UDEMY\poo 3\poo 3\obj\Debug\net5.0\poo 3.genruntimeconfig.cache
+C:\WS-VS2022\foi finalmente UDEMY\poo 3\poo 3\obj\Debug\net5.0\ref\poo 3.dll
